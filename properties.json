@@ -1,9 +1,7 @@
 {
   "personal": {
-    "name": {
-      "first": "Adam",
-      "last": "Akissi"
-    },
+    "firstname": "Adam",
+    "username": "Freiik",
     "picture": "https://a.dam.best/assets/img/me.png",
     "age": 16,
     "location": {
@@ -18,11 +16,10 @@
       "he",
       "him"
     ],
-    "pseudonym": "Freiik",
     "socials": {
       "instagram": "@0x4164616d",
       "twitter": [
-        "FreiikDev",
+        "@FreiikDev",
         "@eyoboyhowareyou"
       ],
       "github": "@FreiikDev",
