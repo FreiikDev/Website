@@ -1,0 +1,78 @@
+{
+  "personal": {
+    "name": {
+      "first": "Adam",
+      "last": "Akissi"
+    },
+    "picture": "https://a.dam.best/assets/img/me.png",
+    "age": 16,
+    "location": {
+      "country": "France",
+      "city": "Lyon",
+      "coordinates": [
+        45.7640,
+        4.8357
+      ]
+    },
+    "pronouns": [
+      "he",
+      "him"
+    ],
+    "pseudonym": "Freiik",
+    "socials": {
+      "instagram": "@0x4164616d",
+      "twitter": [
+        "FreiikDev",
+        "@eyoboyhowareyou"
+      ],
+      "github": "@FreiikDev",
+      "discord": "Freiik#0001"
+    }
+  },
+  "activities": {
+    "school": {
+      "cycle": [
+        "High School",
+        "Secondary School",
+        "Lycée"
+      ],
+      "grade": [
+        "Year 12",
+        "11th",
+        "Première"
+      ],
+      "degree": "Anticipated exam of the French baccalaureate"
+    },
+    "projects": [
+      {
+        "name": "Volt",
+        "links": [
+          "https://volt.science"
+        ],
+        "description": "Structure bringing together an ecosystem of different professions mainly on Discord"
+      },
+      {
+        "name": "Sommet Création",
+        "links": [
+          "https://sommet-creation.com"
+        ],
+        "description": "Discord server focused on beatmaking, rap and other artistic disciplines"
+      },
+      {
+        "name": "Squid Game",
+        "links": [
+          "https://discord.gg/squidgame"
+        ],
+        "description": "Largest Squid Game server on Discord. Chat about movies, theory, and of course Squid Game"
+      },
+      {
+        "name": "Graphiste Académie",
+        "links": [
+          "https://graphacademie.com",
+          "https://discord.gg/ga"
+        ],
+        "description": "Graphiste Académie is a server about Art and Graphic Design, here you can share your creations or even ask our graphic designers to offer you their services"
+      }
+    ]
+  }
+}
