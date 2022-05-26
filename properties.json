@@ -2,6 +2,7 @@
   "personal": {
     "firstname": "Adam",
     "username": "Freiik",
+    "mail": "me@a.dam.best",
     "picture": "https://a.dam.best/assets/img/me.png",
     "age": 16,
     "location": {
@@ -10,8 +11,7 @@
       "coordinates": [
         45.7640,
         4.8357
-      ],
-    "mail": "me@a.dam.best"
+      ]
     },
     "pronouns": [
       "he",
