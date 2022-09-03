@@ -22,10 +22,14 @@
       "instagram": "@uhquser",
       "twitter": [
         "@FreiikDev",
-        "@eyoboyhowareyou"
+        "@uhquser"
       ],
       "github": "@FreiikDev",
-      "discord": "Freiik#0001"
+      "discord": {
+        "id": "809849085305421835",
+        "tag": "Freiik#0001",
+        "link": "https://discord.com/users/809849085305421835/"
+      }
     }
   },
   "activities": {
@@ -36,11 +40,11 @@
         "Lycée"
       ],
       "grade": [
-        "Year 12",
-        "11th",
-        "Première"
+        "Year 13",
+        "12th",
+        "Terminale"
       ],
-      "degree": "Anticipated exam of the French baccalaureate"
+      "degree": "Exam of the French baccalaureate"
     },
     "projects": [
       {
@@ -56,21 +60,6 @@
           "https://sommet-creation.com"
         ],
         "description": "Discord server focused on beatmaking, rap and other artistic disciplines"
-      },
-      {
-        "name": "Squid Game",
-        "links": [
-          "https://discord.gg/squidgame"
-        ],
-        "description": "Largest Squid Game server on Discord. Chat about movies, theory, and of course Squid Game"
-      },
-      {
-        "name": "Graphiste Académie",
-        "links": [
-          "https://graphacademie.com",
-          "https://discord.gg/ga"
-        ],
-        "description": "Graphiste Académie is a server about Art and Graphic Design, here you can share your creations or even ask our graphic designers to offer you their services"
       }
     ]
   }

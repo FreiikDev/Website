@@ -1,0 +1,19 @@
+@media screen and (min-width: 601px) {
+    pre {
+        font-size: 1rem
+    }
+}
+
+@media screen and (max-width: 600px) {
+    pre {
+        font-size: 3rem
+    }
+}
+
+.highlight {
+    color: #ab0000;
+}
+
+a {
+    color: #ff0000;
+}
