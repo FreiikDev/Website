@@ -48,8 +48,10 @@ a {
 }
 
 .show-more {
-    position: fixed;
+    position: absolute;
+    top: 36px;
     right: 50px;
+    z-index: 1;
 }
 
 .logo {
