@@ -4,7 +4,7 @@
     "username": "Freiik",
     "mail": "me@a.dam.best",
     "picture": "https://a.dam.best/assets/img/me.png",
-    "age": 16,
+    "age": 17,
     "location": {
       "country": "France",
       "city": "Lyon",
@@ -19,7 +19,7 @@
     ],
     "socials": {
       "spotify": "Freiik",
-      "instagram": "@uhquser",
+      "instagram": "@uhqman",
       "twitter": [
         "@FreiikDev",
         "@uhquser"
@@ -55,11 +55,25 @@
         "description": "Structure bringing together an ecosystem of different professions mainly on Discord"
       },
       {
+        "name": "Coin des Développeurs",
+        "links": [
+          "https://discord.com/invite/developpeurs"
+        ],
+        "description": "French discord server focused on development"
+      }
+      {
         "name": "Sommet Création",
         "links": [
           "https://sommet-creation.com"
         ],
         "description": "Discord server focused on beatmaking, rap and other artistic disciplines"
+      },
+      {
+        "name": "Coin Lecture",
+        "links": [
+          "https://discord.com/invite/lecture"
+        ],
+        "description": "Discord server focused on reading"
       }
     ]
   }
