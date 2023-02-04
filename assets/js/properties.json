@@ -2,7 +2,7 @@
   "personal": {
     "firstname": "Adam",
     "username": "Freiik",
-    "mail": "me@a.dam.best",
+    "mail": "me@freiik.com",
     "picture": "https://a.dam.best/assets/img/me.png",
     "age": 17,
     "location": {
@@ -66,14 +66,21 @@
         "links": [
           "https://sommet-creation.com"
         ],
-        "description": "Discord server focused on beatmaking, rap and other artistic disciplines"
+        "description": "French discord server focused on beatmaking, rap and other artistic disciplines"
       },
       {
         "name": "Coin Lecture",
         "links": [
           "https://discord.com/invite/lecture"
         ],
-        "description": "Discord server focused on reading"
+        "description": "French discord server focused on reading"
+      },
+      {
+        "name": "Sneakers France",
+        "links": [
+          "https://discord.com/invite/sneakersfr"
+        ],
+        "description": "French discord server focused on sneakers"
       }
     ]
   }
