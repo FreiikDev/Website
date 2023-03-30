@@ -1,5 +1,14 @@
+body{
+    background: #000000;
+    color: #FFFFFF;
+}
+
 .highlight {
     color: #ab0000;
+}
+
+.number{
+    color: #6b6b6b;
 }
 
 a {
