@@ -3,48 +3,59 @@
     "firstname": "Adam",
     "username": "Freiik",
     "mail": "me@freiik.com",
-    "picture": "https://a.dam.best/assets/img/me.png",
+    "picture": "https://a.dam.best/assets/img/me.jpeg",
     "age": 17,
     "location": {
-      "country": "France",
-      "city": "Lyon",
       "coordinates": [
         45.7640,
         4.8357
-      ]
+      ],
+      "city": "Lyon",
+      "country": "France"
     },
     "pronouns": [
       "he",
       "him"
     ],
     "socials": {
-      "spotify": "Freiik",
-      "instagram": "@uhqman",
-      "twitter": [
-        "@FreiikDev",
-        "@uhquser"
+      "instagram": {
+        "username": "uhqman",
+        "link": "https://instagram.com/uhqman"
+      },
+      "x": [
+        {
+          "username": "FreiikDev",
+          "link": "https://twitter.com/FreiikDev",
+          "tag": "Pro/Secondary account"
+        },
+        {
+          "username": "uhquser",
+          "link": "https://twitter.com/uhquser",
+          "tag": "Main account"
+        }
       ],
-      "github": "@FreiikDev",
+      "github": {
+        "username": "FreiikDev",
+        "link": "https://github.com/FreiikDev"
+      },
       "discord": {
         "id": "809849085305421835",
-        "tag": "Freiik#0001",
+        "username": "freiik",
         "link": "https://discord.com/users/809849085305421835/"
       }
     }
   },
   "activities": {
     "school": {
-      "cycle": [
-        "High School",
-        "Secondary School",
-        "Lycée"
-      ],
-      "grade": [
-        "Year 13",
-        "12th",
-        "Terminale"
-      ],
-      "degree": "Exam of the French baccalaureate"
+      "cycle": {
+        "en": "University",
+        "fr": "Université"
+      },
+      "grade": {
+        "en": "First year student",
+        "fr": "Étudiant de première année (L1)"
+      },
+      "degree": "Computer science"
     },
     "projects": [
       {
@@ -55,16 +66,10 @@
         "description": "Structure bringing together an ecosystem of different professions mainly on Discord"
       },
       {
-        "name": "Coin des Développeurs",
-        "links": [
-          "https://discord.com/invite/developpeurs"
-        ],
-        "description": "French discord server focused on development"
-      },
-      {
         "name": "Sommet Création",
         "links": [
-          "https://sommet-creation.com"
+          "https://sommet-creation.com",
+          "https://discord.com/invite/musique"
         ],
         "description": "French discord server focused on beatmaking, rap and other artistic disciplines"
       },
@@ -74,13 +79,6 @@
           "https://discord.com/invite/lecture"
         ],
         "description": "French discord server focused on reading"
-      },
-      {
-        "name": "Sneakers France",
-        "links": [
-          "https://discord.com/invite/sneakersfr"
-        ],
-        "description": "French discord server focused on sneakers"
       }
     ]
   }

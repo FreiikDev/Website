@@ -1,4 +1,4 @@
-let words = ["known as Freiik", "young developer", "high school student 🎓", "loves french bread 🥖"],
+let words = ["known as Freiik", "young developer", "university student 🎓", "loves french bread 🥖"],
     con = document.getElementById("underscore"),
     letterCount = 1,
     x = 1,
