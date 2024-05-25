@@ -1,9 +1,10 @@
 {
   "personal": {
     "firstname": "Adam",
+    "lastname": "Diop",
     "username": "Freiik",
     "mail": "me@freiik.com",
-    "picture": "https://a.dam.best/assets/img/me.jpeg",
+    "picture": "https://freiik.com/assets/img/me.jpeg",
     "age": 18,
     "location": {
       "coordinates": [
@@ -36,6 +37,7 @@
       ],
       "github": {
         "username": "FreiikDev",
+        "organisation": "UHQServices",
         "link": "https://github.com/FreiikDev"
       },
       "discord": {
@@ -59,12 +61,33 @@
     },
     "projects": [
       {
-        "name": "Volt",
+        "name": "UHQ Services LLC",
         "links": [
-          "https://volt.science"
+          "https://uhq.services"
         ],
-        "asn": "216341",
-        "description": "Structure bringing together an ecosystem of different professions mainly on Discord"
+        "asn": "215274",
+        "description": "UHQ Services LLC drives digital growth with reliable and scalable solutions in software development, graphic design, data protection, and IT consulting. Our client-focused approach centers on innovation, integrity, and collaborative partnerships. Join us on the path to digital success.",
+        "socials": {
+          "x": [
+            {
+              "username": "UHQServices",
+              "link": "https://twitter.com/UHQServices",
+              "tag": "Pro account"
+            }
+          ],
+          "github": {
+            "organisation": "UHQServices",
+            "link": "https://github.com/UHQServices"
+          },
+          "discord": {
+            "id": "1202888591416627260",
+            "link": "https://discord.gg/ultrahq"
+          },
+          "linkedin": {
+            "shortname": "uhq",
+            "link": "https://www.linkedin.com/company/uhq",
+          }
+        }
       },
       {
         "name": "Sommet Création",
@@ -73,13 +96,6 @@
           "https://discord.com/invite/musique"
         ],
         "description": "French discord server focused on beatmaking, rap and other artistic disciplines"
-      },
-      {
-        "name": "Coin Lecture",
-        "links": [
-          "https://discord.com/invite/lecture"
-        ],
-        "description": "French discord server focused on reading"
       }
     ]
   }
