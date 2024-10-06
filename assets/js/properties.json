@@ -3,7 +3,7 @@
     "firstname": "Adam",
     "lastname": "Diop",
     "username": "Freiik",
-    "mail": "me@freiik.com",
+    "mail": "adam@uhq.services",
     "picture": "https://freiik.com/assets/img/me.jpeg",
     "age": 18,
     "location": {
@@ -79,9 +79,9 @@
           },
           "linkedin": {
             "shortname": "uhq",
-            "link": "https://www.linkedin.com/company/uhq",
+            "link": "https://www.linkedin.com/company/uhq"
           }
-        },
+        }
       }
     ]
   }
