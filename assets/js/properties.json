@@ -49,14 +49,8 @@
   },
   "activities": {
     "school": {
-      "cycle": {
-        "en": "University",
-        "fr": "Université"
-      },
-      "grade": {
-        "en": "First year student",
-        "fr": "Étudiant de première année (L1)"
-      },
+      "cycle": "University",
+      "grade": "Second-year student",
       "degree": "Computer science"
     },
     "projects": [
@@ -87,15 +81,7 @@
             "shortname": "uhq",
             "link": "https://www.linkedin.com/company/uhq",
           }
-        }
-      },
-      {
-        "name": "Sommet Création",
-        "links": [
-          "https://sommet-creation.com",
-          "https://discord.com/invite/musique"
-        ],
-        "description": "French discord server focused on beatmaking, rap and other artistic disciplines"
+        },
       }
     ]
   }
